@@ -3,6 +3,8 @@
 
 This roadmap will guide you from basic to advanced cybersecurity and hacking skills, including hands-on practice, real-world projects, and certifications.
 
+
+
 🔹 Month 1: Fundamentals & System Understanding
 
 📌 Goal: Build a strong foundation in networking, operating systems, and security concepts.
@@ -61,6 +63,11 @@ Learn basic Linux & Windows commands
 
 Encrypt & decrypt files using OpenSSL
 
+
+
+
+
+
 🔹 Month 2: Security Essentials & Reconnaissance
 
 📌 Goal: Learn how attackers gather information and identify vulnerabilities.
@@ -106,6 +113,11 @@ Use Nmap to scan local network & websites
 Extract metadata from images & PDFs
 
 Use Shodan to find exposed devices
+
+
+
+
+
 
 🔹 Month 3: Ethical Hacking & Exploitation
 
@@ -157,6 +169,10 @@ Perform SQL Injection using SQLMap
 
 Crack a hashed password using Hashcat
 
+
+
+
+
 🔹 Month 4: Advanced Hacking & Red Teaming
 
 📌 Goal: Learn offensive security tactics used by professional hackers.
@@ -202,6 +218,10 @@ Perform a phishing attack in a test lab
 Write a simple Python keylogger
 
 Exploit a buffer overflow vulnerability in a C program
+
+
+
+
 
 🔹 Month 5: Blue Team & Cyber Defense
 
