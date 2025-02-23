@@ -1,54 +1,4 @@
 # Cyber-Security
-
-
-6-Month Cybersecurity & Hacking Roadmap (Beginner to Advanced)
-Month 1: Fundamentals & System Understanding
-Learn Networking Basics (OSI Model, TCP/IP, DNS, DHCP, VPN, Firewalls)
-Understand Operating Systems (Windows, Linux, macOS)
-Learn Command Line (CLI) (Linux Bash, Windows PowerShell)
-Basic Cryptography (Hashing, Encryption, Encoding)
-Set up a Lab Environment (VirtualBox, Kali Linux, Windows VM)
-Month 2: Security Essentials & Reconnaissance
-Learn Web Security Basics (HTTP, HTTPS, SQL, XSS, CSRF)
-Understand System Security (Antivirus, IDS/IPS, Firewalls)
-Get familiar with Penetration Testing Stages (Reconnaissance, Scanning, Exploitation, Post-Exploitation)
-Start with OSINT Tools (Maltego, Shodan, TheHarvester)
-Learn Network Scanning (Nmap, Wireshark)
-Month 3: Ethical Hacking & Exploitation
-Learn Web App Pentesting (Burp Suite, SQL Injection, XSS)
-Practice Exploitation Techniques (Metasploit, Reverse Shells)
-Learn Privilege Escalation (Linux & Windows)
-Explore Password Cracking (John The Ripper, Hashcat)
-Get into Wireless Network Hacking (Aircrack-ng, Wi-Fi attacks)
-Month 4: Advanced Hacking & Red Teaming
-Learn Active Directory Attacks (Kerberoasting, BloodHound)
-Perform Social Engineering Attacks (Phishing, MITM)
-Explore Exploit Development (Buffer Overflow, ROP, Fuzzing)
-Learn Malware Analysis (Reverse Engineering Basics)
-Start CTF Challenges (TryHackMe, HackTheBox)
-Month 5: Blue Team & Cyber Defense
-Learn Security Information and Event Management (SIEM) (Splunk, ELK)
-Understand Digital Forensics (Autopsy, Volatility)
-Learn Incident Response (MITRE ATT&CK, IR Frameworks)
-Understand Threat Hunting & Intelligence
-Practice Hardening Systems (Linux, Windows, Cloud Security)
-Month 6: Real-World Projects & Certifications
-Get familiar with Bug Bounty Platforms (HackerOne, Bugcrowd)
-Build your own C2 Framework (Cobalt Strike, Empire)
-Practice Pentesting Reports & Documentation
-Prepare for Certifications (CEH, OSCP, CompTIA Security+)
-Contribute to Open Source Security Tools
-Would you like resources or book recommendations for each phase? 🚀
-
-
-
-
-
-
-
-You said:
-more datils
-ChatGPT said:
 6-Month Cybersecurity & Hacking Roadmap (Beginner to Advanced) – Detailed Plan
 This roadmap will guide you from basic to advanced cybersecurity and hacking skills, including hands-on practice, real-world projects, and certifications.
 
@@ -231,3 +181,5 @@ By following this roadmap, you'll have practical skills in penetration testing, 
 ✅ Penetration Tester
 ✅ Security Engineer
 ✅ Red Team/Blue Team Specialist
+
+Do you need book recommendations, video courses, or additional guidance? 🔥
